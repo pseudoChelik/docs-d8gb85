@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-obebzs.memclawz.com/sitemap.xml
